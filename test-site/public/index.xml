@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 01 Nov 2024 21:06:27 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test&#34;&gt;This is a test&lt;/h1&gt;&#xA;&lt;p&gt;Hi!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;this-is-a-post&#34;&gt;This is a post&lt;/h1&gt;&#xA;&lt;p&gt;Hello first&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;Hello second&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
