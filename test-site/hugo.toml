@@ -1,7 +1,7 @@
 baseURL = 'https://test.martinec.co.uk/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'gokarna'
 
 [menu]
   [[menu.main]]
